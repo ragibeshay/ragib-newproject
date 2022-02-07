@@ -2,7 +2,7 @@
 <application-state>
   <context id="">
     <application id="gnome-initial-setup.desktop" score="4" last-seen="1643967753"/>
-    <application id="org.gnome.Terminal.desktop" score="2517" last-seen="1644203124"/>
+    <application id="org.gnome.Terminal.desktop" score="4822" last-seen="1644219312"/>
     <application id="update-manager.desktop" score="0" last-seen="1643967822"/>
   </context>
 </application-state>
