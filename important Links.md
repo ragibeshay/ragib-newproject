@@ -1,2 +1,4 @@
 - [pull request route commands ]  (https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)
 - git pull command (https://www.freecodecamp.org/news/git-pull-explained/)
+- ### What is remote name?
+- remote name is : The remote name is a short-hand label for a remote repository. "origin" is the conventional default name for the first remote and is usually where you push to when you don't specify a remote for git. You can set up more than one remote for your local repo and you use the remote name when pushing to them. For instance you could set up a second copy of the repo on Bitbucket and refer to it with the remote name "bitbucket". Then pushing to origin would push and changes to GitHub, and pushing to bitbucket would push those same changes to BitBucket.
