@@ -1,2 +1,2 @@
-- What is forking, pull request and other meaning  
-- [git commands ]  (https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)
+- [pull request route commands ]  (https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)
+- git pull command (https://www.freecodecamp.org/news/git-pull-explained/)
