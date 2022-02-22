@@ -3,3 +3,4 @@
 - ### What is remote name?
 - remote name is : The remote name is a short-hand label for a remote repository. "origin" is the conventional default name for the first remote and is usually where you push to when you don't specify a remote for git. You can set up more than one remote for your local repo and you use the remote name when pushing to them. For instance you could set up a second copy of the repo on Bitbucket and refer to it with the remote name "bitbucket". Then pushing to origin would push and changes to GitHub, and pushing to bitbucket would push those same changes to BitBucket.
 - hello 
+- adding linked in hyperlink [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ragibeshay)
